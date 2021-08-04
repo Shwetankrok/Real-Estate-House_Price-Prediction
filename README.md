@@ -12,7 +12,7 @@ Data can be downloaded from here: https://www.kaggle.com/amitabhajoy/bengaluru-h
 <br>6: Created a Web App in StreamLit to display the model house Price prediction results for any given location, sft,bedroom and bathroom to choose from </br>
 ![image](https://user-images.githubusercontent.com/55294349/126907539-c9d3d096-3993-4e46-8165-0772e2144ab2.png)
 <br>Model Performance Results: </br>
-![image](https://user-images.githubusercontent.com/55294349/126910232-ff6d7990-5d9e-4cc9-a43f-41a4bcaf61cf.png)
+![image](https://user-images.githubusercontent.com/55294349/128110327-ee17bb74-6ff6-47bd-b0e8-0752de0b9bb4.png)
 
 
 
